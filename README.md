@@ -20,7 +20,7 @@ Note: if this step fails you will not be able to boot youwipe
 16. Youwipe will boot
 17. Run youwipe and wait until finished
 18. Shutdown chromebook
-19. Follow recovery option 2 on this webpage to reinstall Chrome. [Create ChromeOS Recovery](https://support.google.com/chromebook/answer/1080595?hl=en-GB#zippy=%2Cstep-collect-these-devices%2Cstep-download-a-new-copy-of-the-os)
+19. Follow recovery option 2 on the link, this will create a bootable recovery usb. [Create ChromeOS Recovery](https://support.google.com/chromebook/answer/1080595?hl=en-GB#zippy=%2Cstep-collect-these-devices%2Cstep-download-a-new-copy-of-the-os)
 20. Turn on chromebook
 21. Press space then enter to turn OS verification back on
 22. Wait for device to reboot to Chrome OS is missing page, then shutdown with power button
