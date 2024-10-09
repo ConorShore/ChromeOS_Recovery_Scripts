@@ -16,7 +16,7 @@ Note: if this step fails you will not be able to boot youwipe
 12. Press power button to turn on chromebook
 13. Press ctrl+L when you get to the OS verification screen
 14. press esc to get to the boot menu
-15. press the number corisponding with the youwipe usb stick
+15. press the number corresponding with the youwipe usb stick
 16. Next press escape to select boot options
 17. Then in boot options menu, find your usb stick and press enter
 18. Youwipe will boot
@@ -28,4 +28,5 @@ Note: if this step fails you will not be able to boot youwipe
 24. Wait for device to reboot to Chrome OS is missing page, then shutdown with power button
 25. Plug in USB stick
 26. Then follow the Enter Recovery Mode steps listed here [Enter Recovery Mode](https://support.google.com/chromebook/answer/1080595?hl=en-GB#:~:text=Enter%20recovery%20mode%3A,%2B%20Maximise%20%2C%20then%20press%20Power%20.)
+
 Profit
