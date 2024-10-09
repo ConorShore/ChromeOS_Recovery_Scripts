@@ -7,7 +7,7 @@ Note: The IP address should be set via DHCP, haven't figured out yet how to do s
 `ping google.com`
 6. If you get responses internet is working.
 7. Run this script:
-`cd; curl -LO mrchromebox.tech/firmware-util.sh && sudo bash firmware-util.sh`
+`cd /tmp; curl -LO mrchromebox.tech/firmware-util.sh && sudo bash firmware-util.sh`
 8. press 1 to install/update RW_LEGACY Firmware.  
 Note: if this step fails you will not be able to boot youwipe
 9. next press P and enter to power off
